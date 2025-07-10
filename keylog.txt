@@ -1,0 +1,1 @@
+note[[Key.backspace]padivakarbbkdbsd1234958[Key.shift_r]@#$%[Key.esc]note[Key.ctrl_l][Key.shift][Key.shift_r]Key[Key.shift_r][Key.shift_r][Key.shift_r][Key.shift_r][Key.shift_r]L[Key.backspace]logger
